@@ -1,8 +1,8 @@
 ### Hello, Nice to meet you! I'm Pedro :japanese_goblin: :wave:
 
-People called me by many names around my professional experience: (Associate) Researcher, R&D Engineer, (Senior) Data Scientist, Machine Learning Engineer...
+My job had many titles during my professional experience: (Associate) Researcher, R&D Engineer, (Senior) Data Scientist, Machine Learning Engineer...
 
-I'm just a person who loves AI and create solutions to different problems.
+I'm just a person who loves AI and the creation of solutions to different problems.
 
 Currently (March 2023) I am a Machine Learning Engineer and Tech Lead in EXUS AI Labs. And I am really enjoying this journey.
 
