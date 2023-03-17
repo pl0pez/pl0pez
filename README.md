@@ -1,10 +1,10 @@
 ### Hello, Nice to meet you! I'm Pedro :japanese_goblin: :wave:
 
-My job had many titles during my professional experience: (Associate) Researcher, R&D Engineer, (Senior) Data Scientist, Machine Learning Engineer...
+My job has had many titles during my professional experience: (Associate) Researcher, R&D Engineer, (Senior) Data Scientist...
 
 I'm just a person who loves AI and the creation of solutions to different problems.
 
-Currently (March 2023) I am a Machine Learning Engineer and Tech Lead in EXUS AI Labs. And I am really enjoying this journey.
+Currently (March 2023) I am a Machine Learning Engineer and Tech Lead in EXUS AI Labs. And I am **really** enjoying this journey.
 
 About me: 
 - :tophat: I have a PhD in Engineering since 2016. It was about Short-term congestion forecasting using Fuzzy Rule-Based Systems and Genetic Algorithms. 
