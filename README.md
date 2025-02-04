@@ -4,7 +4,7 @@ My job has had many titles during my professional experience: (Associate) Resear
 
 I'm just a person who loves AI and the creation of solutions to different problems.
 
-Currently (November 2023) I am a Machine Learning Engineer and Tech Lead in EXUS AI Labs. And I am **really** enjoying this journey.
+Currently (February 2025) I am a Machine Learning Engineer and Tech Lead in EXUS AI Labs. And I am **really** enjoying this journey.
 
 About me: 
 - :tophat: I have a PhD in Engineering since 2016. It was about Short-term congestion forecasting using Fuzzy Rule-Based Systems and Genetic Algorithms. 
